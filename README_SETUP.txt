@@ -1,0 +1,1 @@
+If you need me to customize this bot (add admin features, file upload to Firebase, channels posting, etc.) tell me and I'll update the code and re-create the zip for you.
